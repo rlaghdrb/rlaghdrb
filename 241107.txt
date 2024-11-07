@@ -1,0 +1,61 @@
+# 사칙연산 
+# a=3    
+# b=9
+# print(a * b)
+# a="python" 문자열 출력
+# print(a)
+# b="hello"
+# print(a + b)
+# num1, num2 = input("숫자 입력 2개 : ").split()
+# re = int(num1) * int(num2)
+# print("결과 =", re)
+
+# money = True
+# if money:
+#     print("택시를 타고 가라")
+# else:
+#     print("걸어 가라") 
+
+# num = int(input("입력하세요 : "))
+# num1 = 10
+# num2 = 20
+# if num == 1:
+#     print(num1+num2)
+# else:
+#     exit()
+
+# score = 80
+# if score >=90:
+#     print("A")
+# elif score >=80:
+#     print("B") 
+# elif score >=70:
+#     print("C")
+# elif score >=60: 
+#     print("D")
+# else:
+#     print("낙제 프로그램 종료")
+#     exit()  
+
+# 1=콜라 2=사이다 3=환타 0=종료
+# num = int(input("입력하세요 : "))
+# if num == 1:
+#     print("콜라")
+# elif num == 2:
+#     print("사이다")
+# elif num == 3:
+#     print("환타")
+# elif num == 0:
+#     print("프로그램 종료")
+#     exit()
+
+# 홀수, 짝수
+# if (num%2) == 0
+# if (num%2) == 1
+# if (num%2) != 0
+# num = int(input("입력하세요 : "))
+# if (num%2) == 0:
+#     print("짝수")
+# elif (num%2) != 0:
+#     print("홀수")
+#     exit()
